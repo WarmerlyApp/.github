@@ -13,7 +13,8 @@ build and launch campaigns, check mailbox health and DNS, or answer replies.
   /plugin marketplace add WarmerlyApp/claude-plugin
   /plugin install warmerly@warmerly
   ```
-- **Setup for every client:** [docs.warmerly.com/ai](https://docs.warmerly.com/ai)
+- **ChatGPT, Cursor, VS Code, Codex, Gemini CLI and more:** [mcp](https://github.com/WarmerlyApp/mcp), copy-paste setup for each client
+- **Docs:** [docs.warmerly.com/ai](https://docs.warmerly.com/ai)
 - **Overview:** [warmerly.com/ai](https://warmerly.com/ai)
 
 Questions: hello@warmerly.com
