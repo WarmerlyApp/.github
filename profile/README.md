@@ -17,4 +17,8 @@ build and launch campaigns, check mailbox health and DNS, or answer replies.
 - **Docs:** [docs.warmerly.com/ai](https://docs.warmerly.com/ai)
 - **Overview:** [warmerly.com/ai](https://warmerly.com/ai)
 
+## Open data
+
+- **[email-sending-limits](https://github.com/WarmerlyApp/email-sending-limits):** what Google Workspace, Microsoft 365, Outlook.com, Zoho, Hostinger Titan and GoDaddy say one mailbox can send, with the source link on every row. CC BY 4.0.
+
 Questions: hello@warmerly.com
